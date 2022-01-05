@@ -3,7 +3,7 @@ import humanize
 
 # Obtiene todos los ficheros
 
-search_dir = os.listdir('/home/ken/Descargas')
+search_dir = os.listdir('/')
 
 print(search_dir)
 
